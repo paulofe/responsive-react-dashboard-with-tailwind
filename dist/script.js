@@ -19,7 +19,7 @@ const employeeData = [
 {
   id: 1,
   name: 'Teste Howard',
-  position: "Sale's manager USA",
+  position: "Test position manager USA",
   transactions: 3490,
   rise: true,
   tasksCompleted: 3,
