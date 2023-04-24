@@ -20,7 +20,7 @@ const employeeData = [
   id: 1,
   name: 'Teste Howard',
   position: "Test position manager USA",
-  transactions: 3490,
+  transactions: 6490,
   rise: true,
   tasksCompleted: 3,
   imgId: 0 },
@@ -28,9 +28,9 @@ const employeeData = [
 
 {
   id: 2,
-  name: 'Eleanor Pena',
+  name: 'Eleanor Dois',
   position: "Sale's manager Europe",
-  transactions: 590,
+  transactions: 1590,
   rise: false,
   tasksCompleted: 5,
   imgId: 2 },
@@ -48,8 +48,8 @@ const employeeData = [
 
 
 const Countrydata = [
-{ name: 'USA', rise: true, value: 21942.83, id: 1 },
-{ name: 'Ireland', rise: false, value: 19710.0, id: 2 },
+{ name: 'USA', rise: true, value: 23000.83, id: 1 },
+{ name: 'Ireland', rise: false, value: 20710.0, id: 2 },
 { name: 'Ukraine', rise: false, value: 12320.3, id: 3 },
 { name: 'Sweden', rise: true, value: 9725.0, id: 4 }];
 
